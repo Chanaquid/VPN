@@ -1,0 +1,6 @@
+[MyServer]
+MEDIA=rastapi
+Port=VPN2-0
+Device=WAN miniport (IKEv2)
+DEVICE=vpn
+PhoneNumber={address}

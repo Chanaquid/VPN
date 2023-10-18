@@ -1,0 +1,26 @@
+﻿<Application x:Class="Modern_VPN.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Modern_VPN"
+             xmlns:view="clr-namespace:Modern_VPN.MVVM.View"
+             xmlns:vms="clr-namespace:Modern_VPN.MVVM.ViewModel"
+             StartupUri="MVVM/View/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Themes/titlebarButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/MenuButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/ConnectButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/ServerListTheme.Nord.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <DataTemplate DataType="{x:Type vms:ProtectionViewModel}">
+                <view:ProtectionView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vms:SettingsViewModel}">
+                <view:SettingsView/>
+            </DataTemplate>
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

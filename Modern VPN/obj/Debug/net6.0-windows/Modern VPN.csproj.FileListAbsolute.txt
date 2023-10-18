@@ -1,0 +1,31 @@
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\bin\Debug\net6.0-windows\Modern VPN.exe
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\bin\Debug\net6.0-windows\Modern VPN.deps.json
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\bin\Debug\net6.0-windows\Modern VPN.runtimeconfig.json
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\bin\Debug\net6.0-windows\Modern VPN.dll
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\bin\Debug\net6.0-windows\Modern VPN.pdb
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.csproj.AssemblyReference.cache
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN_MarkupCompile.cache
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN_MarkupCompile.lref
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.g.resources
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.AssemblyInfoInputs.cache
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.AssemblyInfo.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.csproj.CoreCompileInputs.cache
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.dll
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\refint\Modern VPN.dll
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.pdb
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Modern VPN.genruntimeconfig.cache
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\ref\Modern VPN.dll
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\ProtectionView.g.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\ProtectionView.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\App.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\SettingsView.g.cs
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\MVVM\View\SettingsView.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Themes\TitlebarButton.Nord.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Themes\MenuButton.Nord.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Themes\ConnectButton.Nord.baml
+C:\Users\cj\source\repos\Modern VPN\Modern VPN\obj\Debug\net6.0-windows\Themes\ServerListTheme.Nord.baml
